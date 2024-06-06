@@ -1,0 +1,42 @@
+﻿@page
+@model Snackis6.Pages.Messages.Admin.AdminCategory.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@if (User.IsInRole("Admin"))
+{
+    
+
+<h1>Create</h1>
+
+<h4>Category</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Category.Name" class="control-label">New category name</label>
+                <input asp-for="Category.Name" class="form-control" />
+                <span asp-validation-for="Category.Name" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <input type="submit" value="Add new category" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-page="Index" class="btn btn-dark">Back to List</a>
+    </div>
+}
+else
+{
+    <h1 class="text-center">Sorry, this page is for admins only!</h1>
+}
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

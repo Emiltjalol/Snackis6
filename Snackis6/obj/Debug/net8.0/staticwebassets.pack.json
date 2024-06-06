@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snackis6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Snackis6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\1d42bowy.2es.jpg",
+      "PackagePath": "staticwebassets\\userImages\\1d42bowy.2es.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\24ksjqtx.0ts.jpg",
+      "PackagePath": "staticwebassets\\userImages\\24ksjqtx.0ts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\2z5xvhtt.nom.jpg",
+      "PackagePath": "staticwebassets\\userImages\\2z5xvhtt.nom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\5m0as5go.har.jpg",
+      "PackagePath": "staticwebassets\\userImages\\5m0as5go.har.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\5wh0a0oe.tee.webp",
+      "PackagePath": "staticwebassets\\userImages\\5wh0a0oe.tee.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\ETT.jpg",
+      "PackagePath": "staticwebassets\\userImages\\ETT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\ETT2.jpg",
+      "PackagePath": "staticwebassets\\userImages\\ETT2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\ETT3.jpg",
+      "PackagePath": "staticwebassets\\userImages\\ETT3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\ETT4.jpg",
+      "PackagePath": "staticwebassets\\userImages\\ETT4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\b2f043vu.mud.jpg",
+      "PackagePath": "staticwebassets\\userImages\\b2f043vu.mud.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\cdkn3cf1.qoj.jpg",
+      "PackagePath": "staticwebassets\\userImages\\cdkn3cf1.qoj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\cpub0jlr.fm5.png",
+      "PackagePath": "staticwebassets\\userImages\\cpub0jlr.fm5.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\db51cfab.0ac.webp",
+      "PackagePath": "staticwebassets\\userImages\\db51cfab.0ac.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\defaultprofile.jpg",
+      "PackagePath": "staticwebassets\\userImages\\defaultprofile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\dejifrku.euz.png",
+      "PackagePath": "staticwebassets\\userImages\\dejifrku.euz.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\derxmqsn.xry.jpg",
+      "PackagePath": "staticwebassets\\userImages\\derxmqsn.xry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\eekowlxx.440.jpg",
+      "PackagePath": "staticwebassets\\userImages\\eekowlxx.440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\fi51dita.g1s.webp",
+      "PackagePath": "staticwebassets\\userImages\\fi51dita.g1s.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\fi5ilp0i.4q4.png",
+      "PackagePath": "staticwebassets\\userImages\\fi5ilp0i.4q4.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\fyx1ffh2.mhm.png",
+      "PackagePath": "staticwebassets\\userImages\\fyx1ffh2.mhm.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\gwv0n5aq.hfp.webp",
+      "PackagePath": "staticwebassets\\userImages\\gwv0n5aq.hfp.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\hr31d2uz.vb4.png",
+      "PackagePath": "staticwebassets\\userImages\\hr31d2uz.vb4.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\k2lbiuoi.yrq.jpg",
+      "PackagePath": "staticwebassets\\userImages\\k2lbiuoi.yrq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\kuefcorq.mqt.jpg",
+      "PackagePath": "staticwebassets\\userImages\\kuefcorq.mqt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\kxa52qxy.2ej.jpg",
+      "PackagePath": "staticwebassets\\userImages\\kxa52qxy.2ej.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\npblym0y.upp.jpg",
+      "PackagePath": "staticwebassets\\userImages\\npblym0y.upp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\nvsz0qqy.pop.webp",
+      "PackagePath": "staticwebassets\\userImages\\nvsz0qqy.pop.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\owmfaqry.dce.jpg",
+      "PackagePath": "staticwebassets\\userImages\\owmfaqry.dce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\pa5uhrdn.dqy.jpg",
+      "PackagePath": "staticwebassets\\userImages\\pa5uhrdn.dqy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\pjhor5jj.5ny.jpg",
+      "PackagePath": "staticwebassets\\userImages\\pjhor5jj.5ny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\qcydes3x.fch.jpg",
+      "PackagePath": "staticwebassets\\userImages\\qcydes3x.fch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\r5vnmukw.hkc.jpg",
+      "PackagePath": "staticwebassets\\userImages\\r5vnmukw.hkc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\sw3sfndq.oqy.png",
+      "PackagePath": "staticwebassets\\userImages\\sw3sfndq.oqy.png"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\t0kxtjns.hka.jpg",
+      "PackagePath": "staticwebassets\\userImages\\t0kxtjns.hka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\vdw1m535.z1m.jpg",
+      "PackagePath": "staticwebassets\\userImages\\vdw1m535.z1m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\y4p0n30x.s4i.jpg",
+      "PackagePath": "staticwebassets\\userImages\\y4p0n30x.s4i.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\yzhsacai.c5f.jpg",
+      "PackagePath": "staticwebassets\\userImages\\yzhsacai.c5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\userImages\\zsln1yfm.k2j.jpg",
+      "PackagePath": "staticwebassets\\userImages\\zsln1yfm.k2j.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Snackis6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Snackis6.props",
+      "PackagePath": "build\\Snackis6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Snackis6.props",
+      "PackagePath": "buildMultiTargeting\\Snackis6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Snackis6.props",
+      "PackagePath": "buildTransitive\\Snackis6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

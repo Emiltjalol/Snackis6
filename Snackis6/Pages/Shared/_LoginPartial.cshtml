@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Snackis6.Areas.Identity.Data
+
+@inject SignInManager<Snackis6User> SignInManager
+@inject UserManager<Snackis6User> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+
+        var user = await UserManager.GetUserAsync(User);
+        var displayName = user?.DisplayName ?? "User";
+        var profileImage = user?.ProfileImage; 
+
+        <li class="nav-item">
+            <div class="d-flex align-items-center">             
+             
+               
+                <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello <strong>@displayName</strong></a>
+                @if (!string.IsNullOrEmpty(profileImage))
+                {
+                    <img src="~/UserImages/@user.ProfileImage" alt="Profile Image" class="rounded-circle" width="40" height="40" />
+                }
+                else
+                {
+                    <img src="~/UserImages/defaultprofile.jpg" alt="Profile Image" class="rounded-circle" width="40" height="50" />
+                }
+            </div>
+        </li>
+   
+    <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/Index", new { area = "" })">
+            <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </li>
+}
+</ul>
+
+
+

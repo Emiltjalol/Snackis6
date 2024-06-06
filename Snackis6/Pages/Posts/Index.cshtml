@@ -1,0 +1,42 @@
+﻿@page
+@model Snackis6.Pages.Posts.IndexModel
+
+@{
+    ViewData["Title"] = "Posts";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+<h1>Posts</h1>
+<br />
+
+<p>
+    <a asp-page="Selectcategory" class="btn btn-success">Create new post</a>
+</p>
+
+<div class="container">
+    @foreach (var post in Model.Post)
+    {
+        <div class="card mb-3 ">
+            <div class="card-body shadow">
+                <div class="row mb-3">
+                    <div class="col-auto text-center d-flex flex-column align-items-center me-3 profile-container">
+                        <h4 class="mt-0">@post.User.DisplayName</h4>
+                        @if (!string.IsNullOrEmpty(post.User.ProfileImage))
+                        {
+                            <img src="~/UserImages/@post.User.ProfileImage" alt="Profile Image" class="rounded-circle shadow" width="70" height="70" />
+                        }
+                        else
+                        {
+                            <img src="/userImages/defaultprofile.jpg" alt="Default Profile Image" class="rounded-circle shadow" width="70" height="70" />
+                        }
+                    </div>
+                    <div class="col">
+                        <h3>@post.Title</h3>
+                        <p class="text-muted">Posted in @post.Category.Name => @post.subCategory.Name by <strong class="text-black">@post.User.DisplayName</strong> on @post.PostedTime</p>
+                        <a asp-page="./PostDetails" asp-route-postId="@post.Id" class="btn btn-primary">Show post</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

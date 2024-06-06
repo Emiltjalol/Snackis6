@@ -1,0 +1,42 @@
+﻿@page
+@model Snackis6.Pages.Comments.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Comment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Comment.CommentContent" class="control-label">Comment</label>
+                <input asp-for="Comment.CommentContent" class="form-control" />
+                <span asp-validation-for="Comment.CommentContent" class="text-danger"></span>
+            </div>
+
+            <input type="hidden" asp-for="Comment.userId" />
+            <input type="hidden" asp-for="Comment.postId" />
+            <input type="hidden" asp-for="Comment.categoryId" />
+            <input type="hidden" asp-for="Comment.subCategoryId" /><br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-page="/posts/index" class="btn btn-dark">Back to posts</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,45 @@
+﻿@page "{commentId:int?}"
+@model Snackis6.Pages.Admin.AdminReports.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+
+}
+
+<h1>Create report</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Reported.Reason" class="control-label"><strong>Reason for reporting</strong></label>
+                <input asp-for="Reported.Reason" class="form-control" />
+                <span asp-validation-for="Reported.Reason" class="text-danger"></span><br />
+            </div>
+            <div class="form-group">
+                <input type="hidden" asp-for="Reported.ReporterId" />
+                <input type="hidden" asp-for="Reported.ReportedUserId" />
+                <input type="hidden" asp-for="Reported.CommentId" />
+                <input type="hidden" asp-for="Reported.TimeStamp" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <br />
+    <a asp-page="/comments/index">Back to comment section</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

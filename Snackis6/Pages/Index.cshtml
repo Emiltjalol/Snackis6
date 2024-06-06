@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <!-- Front Page Content -->
+        <section id="showcase" class="my-4">
+            <div class="container text-center">
+                <h1>Welcome to Emil's Tech Talk!</h1>
+                <p>Greetings, tech enthusiasts! Welcome to Emil's Tech Talk, your go-to forum for all things tech. Whether you're a seasoned programmer, a gadget lover, or just getting started in the tech world, you'll find something here for you.</p>
+            </div>
+        </section>
+
+        <section id="content" class="container">
+            <div class="box my-4 p-4 bg-light shadow">
+                <h2>What We Offer</h2>
+                <p>Our community covers a wide range of tech topics:</p>
+                <ul>
+                    <li><strong>Gadgets & Hardware:</strong> The latest reviews and discussions on new devices.</li>
+                    <li><strong>Software & Apps:</strong> Tips, tricks, and troubleshooting for your favorite software.</li>
+                    <li><strong>Programming & Development:</strong> Share your code, get help with bugs, and discuss the latest in software development.</li>
+                    <li><strong>Tech News:</strong> Stay updated with the latest news in the tech industry.</li>
+                </ul>
+            </div>
+
+            <div class="box my-4 p-4 bg-light shadow">
+                <h2>Get Started</h2>
+                <p>Joining our community is easy and free! Click <a href="/Identity/Account/Register" class="register-link">here</a> to create an account.
+            </div>
+
+            <div class="box my-4 p-4 bg-light shadow">
+                <h2>Featured Discussions</h2>
+                <p>Check out some of our popular threads:</p>
+                <ul>
+                    <li><a href="/Posts/PostDetails/4" class="post-link">What is a Variable in Programming?</a></li>
+                    <li><a href="/Posts/PostDetails/9" class="post-link">Best smartphone of 2024!</a></li>
+                    <li><a href="/Posts/PostDetails/11" class="post-link">Is AI gonna take over the world?</a></li>
+                </ul>
+            </div>
+
+        </section>
+

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\comments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\comments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\areas\\identity\\data\\snackis6user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\areas\\identity\\data\\snackis6user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\admin\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\admin\\adminreports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\admin\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\messages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\onedrive\\skola\\webbutveckling\\razor\\snackis6\\snackis6\\pages\\messages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:19:48.414Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Posts\\Create.cshtml*",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Create.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:31:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snackis6User.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Areas\\Identity\\Data\\Snackis6User.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Areas\\Identity\\Data\\Snackis6User.cs",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Areas\\Identity\\Data\\Snackis6User.cs",
+              "RelativeToolTip": "Snackis6\\Areas\\Identity\\Data\\Snackis6User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:32:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:23:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Snackis6\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Snackis6\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwHQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T19:20:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:14:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:12:28.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:01:14.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:59:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:16:30.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Create.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:59:53.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:56:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Comments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Comments\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Comments\\Index.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Comments\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:51:45.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Comments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Comments\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Comments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:51:44.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:51:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\OneDrive\\Skola\\Webbutveckling\\razor\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:51:28.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

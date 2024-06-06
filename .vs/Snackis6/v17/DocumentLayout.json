@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\Desktop\\Snackis6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\admincategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\admincategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\admincategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\admincategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\comments.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\comments.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\postdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\postdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\selectcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\selectcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\messages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\messages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminsubcategory\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminsubcategory\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\adminreports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\adminreports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\admin\\admincategory\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\admin\\admincategory\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|c:\\users\\emil\\desktop\\snackis6\\snackis6\\pages\\posts\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7238581-2D61-4960-A6EF-1DAD4D3D7C59}|Snackis6\\Snackis6.csproj|solutionrelative:snackis6\\pages\\posts\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:12:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:11:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:11:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:11:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:11:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\SelectCategory.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\SelectCategory.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\SelectCategory.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\SelectCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T09:24:11.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreatePost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\CreatePost.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\CreatePost.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\CreatePost.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\CreatePost.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T09:23:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:29:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Program.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Program.cs",
+              "RelativeToolTip": "Snackis6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:27:39.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:27:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwCEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:27:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Index.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Edit.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:50.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Delete.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:46.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Messages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Messages\\Create.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Messages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:43.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Comments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Comments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Comments\\Delete.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Comments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:33.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:26:24.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:26:20.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:25:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:25:13.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminCategory\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Delete.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminCategory\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:25:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:15:52.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminSubCategory\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:14:49.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Create.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminCategory\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:13:38.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:13:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminRoles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:06:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\PostDetails.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\PostDetails.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\PostDetails.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\PostDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:51:56.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Comments.cshtml.cs",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Comments.cshtml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Comments.cshtml.cs",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Comments.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:48:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Comments.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Posts\\Comments.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Posts\\Comments.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Posts\\Comments.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:47:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Admin\\AdminReports\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:44:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Snackis6\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Snackis6\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T13:26:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Snackis6\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\Snackis6\\Snackis6\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Snackis6\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:24:38.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

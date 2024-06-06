@@ -1,0 +1,27 @@
+﻿@page
+@model Snackis6.Pages.Posts.SelectCategoryModel
+@{
+    ViewData["Title"] = "Select Category";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Select a Category</h1>
+
+<div class="row">
+    @foreach (var category in Model.Categories)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@category.Name</h5>
+                    <a asp-page="/Posts/CreatePost" asp-route-categoryId="@category.Id" class="btn btn-success">Select</a>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        <br />
+        <a asp-page="/Posts/index" class="btn btn-dark">Back to posts</a>
+    </div>
+</div>

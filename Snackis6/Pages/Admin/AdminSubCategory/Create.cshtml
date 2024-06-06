@@ -1,0 +1,48 @@
+﻿@page
+@model Snackis6.Pages.Messages.Admin.AdminSubCategory.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@if (User.IsInRole("Admin"))
+{
+
+
+    <h1>Create</h1>
+
+    <h4>Subcategory</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Subcategory.Name" class="control-label">New subcategory name</label>
+                    <input asp-for="Subcategory.Name" class="form-control" />
+                    <span asp-validation-for="Subcategory.Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Subcategory.CategoryId" class="control-label">Subcategory</label>
+                    <select asp-for="Subcategory.CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                </div><br />
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-success" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <br />
+    <div>
+        <a asp-page="Index"class="btn btn-dark">Back to List</a>
+    </div>
+}
+else
+{
+    <h1 class="text-center">Sorry, this page is for admins only!</h1>
+}
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

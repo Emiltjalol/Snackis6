@@ -1,0 +1,49 @@
+﻿@page "{categoryId:int}"
+@model Snackis6.Pages.Posts.CreatePostModel
+
+@{
+    ViewData["Title"] = "Create Post";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Create a Post in @Model.CategoryName</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <input type="hidden" asp-for="Post.CategoryId" />
+            <div class="form-group">
+                <label asp-for="Post.SubCategoryId" class="control-label">Category</label>
+                <select asp-for="Post.SubCategoryId" class="form-control" asp-items="ViewBag.SubCategoryId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post.Title" class="control-label"></label>
+                <input asp-for="Post.Title" class="form-control" />
+                <span asp-validation-for="Post.Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Post.Content" class="control-label"></label>
+                <textarea asp-for="Post.Content" class="form-control"></textarea>
+                <span asp-validation-for="Post.Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="hidden" asp-for="Post.UserId" />
+                <span asp-validation-for="Post.UserId" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <input type="submit" value="Create Post" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-page="/Posts/SelectCategory" class="btn btn-dark">Back to select category</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,83 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@using Snackis6.Areas.Identity.Data
+@model Snackis6.Pages.Admin.AdminRoles.IndexModel
+
+@{
+    ViewData["Title"] = "Admin Roles";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@inject SignInManager<Snackis6User> SignInManager
+@inject UserManager<Snackis6User> UserManager
+
+@if (User.IsInRole("Admin"))
+{
+
+
+
+
+    <div class="container mt-5">
+        <h1 class="mb-4">Admin Roles</h1>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col">Username</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Name</th>
+                        @foreach (var role in Model.Roles)
+                        {
+                            <th scope="col">@role.Name</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model.Users)
+                    {
+                        <tr>
+                            <td>
+                                @if (!string.IsNullOrEmpty(user.ProfileImage))
+                                {
+                                    <img src="~/UserImages/@user.ProfileImage" alt="Profile Image" class="rounded-circle shadow" height="50" width="50" />
+                                }
+                                else
+                                {
+                                    <img src="/userImages/defaultprofile.jpg" alt="Default Profile Image" class="rounded-circle shadow" height="50" width="50" />
+                                }
+                            </td>
+                            <td>@user.DisplayName</td>
+                            <td>@user.Email</td>
+                            <td>@user.FirstName @user.LastName</td>
+                            @foreach (var role in Model.Roles)
+                            {
+                                <td>
+                                    @if (await UserManager.IsInRoleAsync(user, role.Name))
+                                    {
+                                        <a href="?RemoveUserId=@user.Id&RoleName=@role.Name" class="btn btn-success btn-sm">Yes</a>
+                                    }
+                                    else
+                                    {
+                                        <a href="?AddUserId=@user.Id&RoleName=@role.Name" class="btn btn-danger btn-sm">No</a>
+                                    }
+                                </td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+
+            @*  <form method="post">
+        <label for="RoleName">Ny roll</label>
+        <input name="RoleName" id="RoleName" />
+        <input type="submit" value="Skapa ny roll" />
+        </form> *@
+        </div>
+    </div>
+}
+else
+{
+    <h1 class="text-center">Sorry, this page is for admins only!</h1>
+}

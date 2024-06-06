@@ -1,0 +1,129 @@
+﻿@page
+@model Snackis6.Pages.Messages.IndexModel
+@using Microsoft.AspNetCore.Identity
+@using Snackis6.Areas.Identity.Data
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Messages</h1>
+<br />
+
+@if (User?.Identity?.IsAuthenticated == true)
+{
+
+    <p>
+        <a asp-page="Create" class="btn btn-success">Send new message</a>
+    </p>
+
+    <h1>Recived Messages</h1>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th></th>
+                <th>
+                    @Html.DisplayName("Sent by")
+                </th>
+                <th>
+                    @Html.DisplayName("Message")
+                </th>
+                <th>
+                    @Html.DisplayName("Recieved")
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Message)
+            {
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.Sender.ProfileImage))
+                        {
+                            <img src="~/UserImages/@item.Sender.ProfileImage" alt="Profile Image" class="nav-profile-image" height="50px" />
+                        }
+                        else
+                        {
+                            <img src="/userImages/defaultprofile.jpg" alt="Default Profile Image" class="rounded-circle shadow" width="40" height="40" />
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Sender.DisplayName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Content)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Timestamp)
+                    </td>
+
+                    <td>
+             
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h1>Sent Messages</h1>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th></th>
+
+                <th>
+                    @Html.DisplayName("Sent to")
+                </th>
+                <th>
+                    @Html.DisplayName("Message")
+                </th>
+                <th>
+                    @Html.DisplayName("Sent")
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.SentMessages)
+            {
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.Recipient.ProfileImage))
+                        {
+                            <img src="~/UserImages/@item.Recipient.ProfileImage" alt="Profile Image" class="nav-profile-image" height="50px" />
+                        }
+                        else
+                        {
+                            <img src="/userImages/defaultprofile.jpg" alt="Default Profile Image" class="rounded-circle shadow" width="40" height="40" />
+                        }
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Recipient.DisplayName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Content)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Timestamp)
+                    </td>
+
+                    <td>
+          
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h3>Please <a href="/Identity/Account/Login" class="login-link">log in</a> to send or watch your messages</h3>
+}
